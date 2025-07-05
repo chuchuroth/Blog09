@@ -85,7 +85,7 @@ Given your background as a trained engineer with a master’s degree from a pres
 
 Germany’s job market is shaped by its robust economy, aging workforce, and global challenges like technological innovation, the green transition, and geopolitical tensions. Here’s what to expect:
 
-     Areas with More Job Openings
+## Areas with More Job Openings
 1. **Technology and IT**  
    - **Why**: Germany’s push for Industry 4.0 (smart manufacturing) and digital transformation keeps IT in high demand. Roles like software developers, AI specialists, and cybersecurity experts are booming.
    - **Growth**: Expect over 100,000 IT-related jobs by 2025, especially in cities like Berlin and Munich. The World Economic Forum’s 2025 Future of Jobs Report predicts tech roles (e.g., Big Data Specialists, Fintech Engineers) among the fastest-growing globally, and Germany mirrors this.
@@ -111,7 +111,7 @@ Germany’s job market is shaped by its robust economy, aging workforce, and glo
    - **Growth**: Delivery drivers, warehouse automation specialists—steady demand here.
    - **Example**: DHL or startups optimizing supply chains with tech.
 
-     Areas Cutting Down
+##     Areas Cutting Down
 1. **Traditional Manufacturing**  
    - **Why**: Automation and offshoring (e.g., German automakers losing to Chinese EVs) are shrinking manual roles. Economic stagnation (0.7% GDP growth in 2025 per the European Commission) adds pressure.
    - **Cuts**: Clerical workers in manufacturing (e.g., administrative assistants) and some factory jobs—expect a net loss of ~1.6 million jobs globally from slower growth, with Germany hit in legacy sectors.
