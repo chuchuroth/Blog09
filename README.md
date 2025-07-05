@@ -607,16 +607,17 @@ Mit freundlichen Grüßen,
 Chuchu Xu  
 ```
 
+
 ---
 
-#    Breakdown of the Sample
+##    Breakdown of the Sample
 - **Opening**: “Große Begeisterung” shows passion; mentioning KIT and your shift sets context humbly.
 - **Middle**: Ties your engineering past to your new ambition, highlights Chinese-German value, and stays modest with “hoffe ich, einen Beitrag zu leisten” and “begierig, zu lernen.”
 - **Closing**: Your vision (“Brücken bauen”) is practical and tied to their work; “unterstützen” and “einarbeiten” keep it intern-appropriate.
 
 ---
 
-#   Tips to Personalize
+##   Tips to Personalize
 - **For MERICS**: Emphasize policy—e.g., “Chinas Technologiepolitik analysieren” instead of “Entwicklung innovativer Lösungen.”
 - **For Rheinmetall**: Focus on tech—e.g., “meine ROS2-Erfahrung in Verteidigungstechnologien einbringen.”
 - **Spoken German**: Acknowledge it subtly—e.g., “während ich meine mündlichen Deutschkenntnisse weiter verbessere” (if relevant to the role).
@@ -624,7 +625,7 @@ Chuchu Xu
 
 ---
 
-#    Next Steps
+##    Next Steps
 1. **Pick a Target**: Choose 1-2 orgs (e.g., MERICS, Rheinmetall) and check their internship pages.
 2. **Draft**: Adapt this letter—swap in their name and a specific project.
 3. **Polish**: Read it aloud to catch shaky German phrasing—I’ll refine it if you share!
