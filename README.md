@@ -190,10 +190,10 @@ Your engineering master’s from a top German university gives you technical pro
 
 #   Action Plan
 
--  1. **Upskill**: Learn cybersecurity basics (e.g., online courses like Coursera) or policy analysis (read MERICS reports).
--  2. **Network**: Join German-Chinese business groups or tech meetups in Berlin/Munich.
--  3. **Test**: Try a small project—e.g., analyze factory data in Python (tech) or write a brief on China’s tech policy (policy).
--  4. **Apply**: Look at Siemens (tech), Rheinmetall (defense), or think tanks like DGAP.
+-   **Upskill**: Learn cybersecurity basics (e.g., online courses like Coursera) or policy analysis (read MERICS reports).
+-   **Network**: Join German-Chinese business groups or tech meetups in Berlin/Munich.
+-   **Test**: Try a small project—e.g., analyze factory data in Python (tech) or write a brief on China’s tech policy (policy).
+-   **Apply**: Look at Siemens (tech), Rheinmetall (defense), or think tanks like DGAP.
 
 What’s your vibe—tech for stability, defense for excitement, or policy for impact? Let’s refine your next move!
 
@@ -449,7 +449,7 @@ The fact that bridging tech, analyzing China, and shaping strategy excite you so
 #    The Internship Path: Bridging Tech, Analyzing China, Shaping Strategy
 Here’s how we can structure this to get you into a role that blends your interests:
 
-     What You’d Do
+##     What You’d Do
 ### 1. **Bridging Tech**:
    - Work on projects linking German engineering (e.g., robotics, AI) with defense applications.
    - Example: Assist in adapting ROS2 algorithms (your strength) for a military drone prototype or simulation.
@@ -460,7 +460,7 @@ Here’s how we can structure this to get you into a role that blends your inter
    - Support strategic discussions—e.g., how Germany can counter China’s tech edge or adopt its speed in defense innovation.
    - Example: Help draft a memo on “Lessons from China’s Military-Civil Fusion for Bundeswehr R&D.”
 
-#     Where to Look
+##     Where to Look
 
 - **Defense Companies**:
   - **Rheinmetall**: Internships in R&D or innovation (e.g., autonomous systems).
@@ -477,7 +477,7 @@ Here’s how we can structure this to get you into a role that blends your inter
   - **Bundeswehr Cyber Innovation Hub**: Tech-defense internships in Berlin.
   - **BMVg (Ministry of Defense)**: Rare civilian internships in policy/tech analysis.
 
-#     Why It Works
+##     Why It Works
 - **Low Barrier**: Internships don’t demand fluency or deep experience—your M.Sc. and enthusiasm are enough.
 - **Networking**: You’ll meet pros who can guide you to full-time roles.
 - **Payoff**: Even unpaid (or low-paid) internships in Germany often lead to jobs—think €500-1000/month stipend, with a foot in the door.
