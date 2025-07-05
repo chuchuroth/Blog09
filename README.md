@@ -190,10 +190,10 @@ Your engineering master’s from a top German university gives you technical pro
 
 #   Action Plan
 
-- 1. **Upskill**: Learn cybersecurity basics (e.g., online courses like Coursera) or policy analysis (read MERICS reports).
-- 2. **Network**: Join German-Chinese business groups or tech meetups in Berlin/Munich.
-- 3. **Test**: Try a small project—e.g., analyze factory data in Python (tech) or write a brief on China’s tech policy (policy).
-- 4. **Apply**: Look at Siemens (tech), Rheinmetall (defense), or think tanks like DGAP.
+-  1. **Upskill**: Learn cybersecurity basics (e.g., online courses like Coursera) or policy analysis (read MERICS reports).
+-  2. **Network**: Join German-Chinese business groups or tech meetups in Berlin/Munich.
+-  3. **Test**: Try a small project—e.g., analyze factory data in Python (tech) or write a brief on China’s tech policy (policy).
+-  4. **Apply**: Look at Siemens (tech), Rheinmetall (defense), or think tanks like DGAP.
 
 What’s your vibe—tech for stability, defense for excitement, or policy for impact? Let’s refine your next move!
 
